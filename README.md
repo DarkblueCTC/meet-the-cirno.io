@@ -1,1 +1,1 @@
-# meet.the.cirno.io
+# meet-the-cirno.io
